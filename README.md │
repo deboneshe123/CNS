@@ -1,0 +1,17 @@
+# AES Encryption Project
+
+## Description
+This project implements AES-256 encryption and decryption using Python.
+
+## Features
+- AES-256 Encryption
+- AES-256 Decryption
+- Base64 Encoding
+- Random Key Generation
+
+## Requirements
+pip install pycryptodome
+
+## Run
+
+python main.py
